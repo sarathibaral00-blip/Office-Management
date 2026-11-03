@@ -50,3 +50,10 @@ supabase/.temp/
 config.local.json
 dart_defines.json
 dart_defines.json
+
+# Android signing
+android/key.properties
+*.jks
+*.keystore
+android/app/google-services.json
+ios/Runner/GoogleService-Info.plist
